@@ -6,9 +6,9 @@ This repository is a practical implementation of Retrieval-Augmented Generation 
 ## Features
 - **Automated Retrieval:** Quickly fetch and process daily published papers on arXiv.
 - **Question-Answering:** Use Retrieval-Augmented Generation (RAG) to answer user-specific queries based on the context of scientific articles.
-- - **LLaMA 3 Integration:** Employs the **LLaMA 3 8B model** for enhanced language understanding and generation.
+- **LLaMA 3 Integration:** Employs the **LLaMA 3 8B model** for enhanced language understanding and generation.
 - **Customizable Inputs:** Flexible prompts and configurations for tailored responses.
-- **Scalable Design:** Built to handle the growing volume of arXiv papers effectively.
+- **Scalable Design:** Built to effectively handle the growing volume of arXiv papers.
 
 ---
 
