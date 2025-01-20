@@ -6,6 +6,7 @@ This repository is a practical implementation of Retrieval-Augmented Generation 
 ## Features
 - **Automated Retrieval:** Quickly fetch and process daily published papers on arXiv.
 - **Question-Answering:** Use Retrieval-Augmented Generation (RAG) to answer user-specific queries based on the context of scientific articles.
+- - **LLaMA 3 Integration:** Employs the **LLaMA 3 8B model** for enhanced language understanding and generation.
 - **Customizable Inputs:** Flexible prompts and configurations for tailored responses.
 - **Scalable Design:** Built to handle the growing volume of arXiv papers effectively.
 
@@ -14,6 +15,7 @@ This repository is a practical implementation of Retrieval-Augmented Generation 
 ## Technologies Used
 - **Python**: Core programming language for implementation.
 - **Hugging Face Transformers**: For LLM-based text generation and RAG integration.
+- **LLaMA 3 8B Model**: A cutting-edge language model for advanced text generation and retrieval tasks.
 - **PyTorch**: For managing LLM frameworks and computations.
 - **LangChain**: To simplify the retrieval-augmented generation process.
 - **ChromaDB** - Vector database for storing and retrieving embeddings
